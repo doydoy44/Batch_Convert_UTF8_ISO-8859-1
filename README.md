@@ -12,5 +12,5 @@ L'ensemble est livré avec php-gtk2.
 Il n'y a pas besoin d'installation.
 
 
-License MIT
-===========
+Licence : MIT
+=============
