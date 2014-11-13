@@ -13,5 +13,6 @@ L'ensemble est livré avec php-gtk2.
 Il n'y a pas besoin d'installation.
 
 
-Licence : GNU LGPL (même licence que php-gtk2)
+Licence : GNU LGPL
 =============
+(même licence que php-gtk2)
